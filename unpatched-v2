@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://paste.ee/r/NysMGzBV"))()
+loadstring(game:HttpGet("https://paste.ee/r/Z78e0QUq"))()
